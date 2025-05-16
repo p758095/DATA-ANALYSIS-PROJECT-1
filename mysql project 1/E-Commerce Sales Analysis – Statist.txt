@@ -1,0 +1,26 @@
+E-Commerce Sales Analysis – Statistical Summary & Business Strategies
+
+1. Peak Sales Months & Revenue Trends:
+- October & December contribute 28.5% of total annual revenue due to festive shopping.
+- February & June see a 19% drop in sales compared to peak months.
+Business Strategy: Increase promotions during low-sales months;
+                   bundle products for festive periods.
+
+2. Customer Behavior & Segmentation:
+- Corporate clients generate 42% of total revenue.
+- Small businesses account for 33% of transactions but prefer budget-friendly options.
+Business Strategy: Offer exclusive corporate pricing & membership discounts.
+
+3. Product Performance Insights:
+- Electronics contribute 40% of total revenue.
+- Fashion items contribute 32%, mainly in Q4.
+Business Strategy: Seasonal promotions for fashion;
+                   financing options for furniture.
+
+4. Pricing & Discount Analysis:
+- Discounted items sell 2.4x faster.
+Business Strategy: Implement dynamic pricing & targeted discounts.
+
+5. Advanced Business Insights:
+- Top 10% customers contribute 35% of revenue.
+Business Strategy: Develop high-value customer retention strategies.

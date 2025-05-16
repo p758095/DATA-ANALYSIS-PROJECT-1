@@ -1,0 +1,501 @@
+CustomerID,CustomerName,Segment,Age,Country,Region,City,State,PostalCode
+B-00001,Rachel Adams,Corporate,39,India,North,Mumbai,Maharashtra,116238
+C-00002,John Smith,Personal,39,India,South,Jaipur,Karnataka,879642
+A-00003,Chris Evans,Small Business,61,India,East,Jaipur,Maharashtra,909347
+B-00004,Ava Martinez,Personal,19,India,West,Mumbai,Maharashtra,351930
+C-00005,Emily Davis,Small Business,38,India,West,Lucknow,Tamil Nadu,659377
+A-00006,James Anderson,Corporate,31,India,East,Bengaluru,Maharashtra,778395
+B-00007,Rachel Adams,Corporate,56,India,West,Jaipur,Tamil Nadu,380159
+C-00008,John Smith,Personal,44,India,South,Jaipur,Tamil Nadu,252635
+A-00009,Rachel Adams,Personal,24,India,North,Bengaluru,Karnataka,542409
+B-00010,John Smith,Corporate,50,India,West,Mumbai,Tamil Nadu,514949
+C-00011,Olivia Thomas,Small Business,18,India,North,Pune,Maharashtra,472883
+A-00012,Sophia Brown,Small Business,27,India,South,Mumbai,Karnataka,342778
+B-00013,Ava Martinez,Small Business,22,India,South,Mumbai,Tamil Nadu,512588
+C-00014,Daniel Wilson,Corporate,63,India,North,Delhi,Karnataka,680805
+A-00015,David Garcia,Corporate,37,India,South,Lucknow,Maharashtra,384834
+B-00016,Daniel Wilson,Small Business,38,India,South,Chennai,Maharashtra,670782
+C-00017,Daniel Wilson,Corporate,54,India,North,Mumbai,Tamil Nadu,305837
+A-00018,Rachel Adams,Small Business,61,India,East,Ahmedabad,Tamil Nadu,838497
+B-00019,David Garcia,Corporate,54,India,East,Pune,Tamil Nadu,257998
+C-00020,John Smith,Personal,47,India,West,Kolkata,Maharashtra,154688
+A-00021,Ava Martinez,Small Business,56,India,South,Chennai,Tamil Nadu,672943
+B-00022,Olivia Thomas,Corporate,37,India,West,Lucknow,Karnataka,396790
+C-00023,Emily Davis,Small Business,26,India,West,Kolkata,Tamil Nadu,121875
+A-00024,Ava Martinez,Corporate,20,India,North,Kolkata,Maharashtra,905597
+B-00025,Daniel Wilson,Corporate,40,India,West,Lucknow,Karnataka,974668
+C-00026,Chris Evans,Small Business,31,India,South,Lucknow,Tamil Nadu,244232
+A-00027,Olivia Thomas,Small Business,37,India,East,Bengaluru,Tamil Nadu,839964
+B-00028,Isabella Lee,Corporate,46,India,West,Bengaluru,Maharashtra,656352
+C-00029,Chris Evans,Corporate,30,India,East,Ahmedabad,Karnataka,414346
+A-00030,Emily Davis,Personal,42,India,East,Ahmedabad,Tamil Nadu,852701
+B-00031,Daniel Wilson,Corporate,41,India,South,Hyderabad,Karnataka,759819
+C-00032,Ava Martinez,Personal,53,India,North,Bengaluru,Tamil Nadu,865611
+A-00033,Chris Evans,Personal,59,India,South,Ahmedabad,Tamil Nadu,657942
+B-00034,James Anderson,Small Business,24,India,South,Mumbai,Maharashtra,690243
+C-00035,David Garcia,Corporate,48,India,West,Bengaluru,Karnataka,415635
+A-00036,Olivia Thomas,Personal,23,India,South,Pune,Karnataka,285089
+B-00037,Sophia Brown,Corporate,49,India,West,Ahmedabad,Tamil Nadu,969652
+C-00038,Isabella Lee,Personal,26,India,North,Pune,Karnataka,895038
+A-00039,Isabella Lee,Corporate,20,India,North,Bengaluru,Maharashtra,163460
+B-00040,Ava Martinez,Corporate,45,India,South,Mumbai,Maharashtra,774748
+C-00041,John Smith,Personal,42,India,West,Lucknow,Tamil Nadu,841187
+A-00042,David Garcia,Corporate,59,India,East,Jaipur,Tamil Nadu,930268
+B-00043,Isabella Lee,Corporate,37,India,East,Chennai,Tamil Nadu,173876
+C-00044,Chris Evans,Small Business,19,India,North,Jaipur,Karnataka,865390
+A-00045,David Garcia,Personal,25,India,West,Pune,Karnataka,508064
+B-00046,Rachel Adams,Personal,55,India,North,Kolkata,Tamil Nadu,451996
+C-00047,Ava Martinez,Personal,56,India,West,Mumbai,Tamil Nadu,657149
+A-00048,Daniel Wilson,Corporate,21,India,South,Bengaluru,Tamil Nadu,492311
+B-00049,James Anderson,Personal,43,India,South,Bengaluru,Karnataka,492662
+C-00050,Isabella Lee,Corporate,55,India,East,Jaipur,Karnataka,903721
+A-00051,James Anderson,Personal,40,India,North,Pune,Karnataka,171766
+B-00052,Emily Davis,Corporate,27,India,South,Jaipur,Tamil Nadu,634750
+C-00053,Isabella Lee,Personal,37,India,North,Mumbai,Maharashtra,392463
+A-00054,Rachel Adams,Corporate,26,India,North,Lucknow,Karnataka,627890
+B-00055,Isabella Lee,Personal,36,India,East,Kolkata,Tamil Nadu,825225
+C-00056,Ava Martinez,Personal,59,India,West,Lucknow,Karnataka,821008
+A-00057,Isabella Lee,Small Business,52,India,East,Lucknow,Karnataka,616594
+B-00058,James Anderson,Personal,19,India,East,Jaipur,Karnataka,388189
+C-00059,Olivia Thomas,Small Business,28,India,West,Chennai,Tamil Nadu,807317
+A-00060,Michael Johnson,Small Business,51,India,North,Jaipur,Maharashtra,524070
+B-00061,David Garcia,Small Business,47,India,North,Mumbai,Karnataka,108127
+C-00062,Michael Johnson,Small Business,49,India,South,Hyderabad,Tamil Nadu,834718
+A-00063,Michael Johnson,Personal,58,India,West,Lucknow,Karnataka,777186
+B-00064,Sophia Brown,Personal,29,India,South,Bengaluru,Maharashtra,877728
+C-00065,Isabella Lee,Personal,42,India,North,Chennai,Karnataka,939666
+A-00066,Olivia Thomas,Corporate,44,India,East,Mumbai,Maharashtra,299933
+B-00067,Ava Martinez,Small Business,60,India,South,Lucknow,Tamil Nadu,884031
+C-00068,Michael Johnson,Corporate,37,India,East,Jaipur,Karnataka,708278
+A-00069,Ava Martinez,Corporate,24,India,South,Mumbai,Karnataka,348758
+B-00070,Olivia Thomas,Personal,33,India,West,Bengaluru,Maharashtra,318429
+C-00071,David Garcia,Small Business,26,India,East,Mumbai,Tamil Nadu,672281
+A-00072,James Anderson,Personal,32,India,East,Delhi,Karnataka,480346
+B-00073,Chris Evans,Small Business,64,India,South,Pune,Tamil Nadu,860679
+C-00074,James Anderson,Corporate,54,India,West,Chennai,Tamil Nadu,336224
+A-00075,Olivia Thomas,Small Business,56,India,South,Bengaluru,Maharashtra,429242
+B-00076,Daniel Wilson,Small Business,62,India,South,Jaipur,Karnataka,729012
+C-00077,James Anderson,Corporate,20,India,West,Chennai,Tamil Nadu,431603
+A-00078,Daniel Wilson,Corporate,41,India,North,Mumbai,Maharashtra,450404
+B-00079,Olivia Thomas,Personal,22,India,North,Ahmedabad,Karnataka,472404
+C-00080,James Anderson,Small Business,23,India,North,Chennai,Tamil Nadu,374606
+A-00081,Chris Evans,Personal,31,India,West,Pune,Maharashtra,264386
+B-00082,John Smith,Small Business,52,India,East,Chennai,Karnataka,635505
+C-00083,Olivia Thomas,Small Business,26,India,South,Kolkata,Maharashtra,769583
+A-00084,Michael Johnson,Corporate,23,India,West,Kolkata,Tamil Nadu,210407
+B-00085,Daniel Wilson,Corporate,62,India,North,Pune,Karnataka,338159
+C-00086,Sophia Brown,Small Business,34,India,West,Kolkata,Tamil Nadu,308361
+A-00087,Daniel Wilson,Personal,29,India,North,Jaipur,Karnataka,152701
+B-00088,Michael Johnson,Small Business,48,India,West,Pune,Karnataka,104981
+C-00089,James Anderson,Corporate,49,India,North,Jaipur,Karnataka,979593
+A-00090,Sophia Brown,Personal,22,India,South,Delhi,Karnataka,828396
+B-00091,Emily Davis,Corporate,64,India,North,Delhi,Maharashtra,887988
+C-00092,Emily Davis,Corporate,20,India,West,Mumbai,Maharashtra,213632
+A-00093,Olivia Thomas,Corporate,36,India,South,Hyderabad,Maharashtra,116689
+B-00094,Olivia Thomas,Corporate,52,India,South,Pune,Tamil Nadu,228267
+C-00095,Sophia Brown,Small Business,55,India,West,Bengaluru,Tamil Nadu,291577
+A-00096,Olivia Thomas,Corporate,29,India,East,Ahmedabad,Tamil Nadu,912671
+B-00097,Olivia Thomas,Corporate,31,India,North,Lucknow,Maharashtra,752366
+C-00098,Olivia Thomas,Personal,45,India,North,Jaipur,Tamil Nadu,510586
+A-00099,Sophia Brown,Corporate,40,India,South,Kolkata,Tamil Nadu,598192
+B-00100,Emily Davis,Small Business,53,India,South,Jaipur,Karnataka,394565
+C-00101,Chris Evans,Small Business,22,India,West,Bengaluru,Tamil Nadu,601794
+A-00102,Michael Johnson,Personal,26,India,South,Chennai,Karnataka,439324
+B-00103,Olivia Thomas,Corporate,51,India,West,Hyderabad,Karnataka,164388
+C-00104,Sophia Brown,Personal,36,India,West,Mumbai,Karnataka,814692
+A-00105,Isabella Lee,Small Business,23,India,West,Chennai,Karnataka,516413
+B-00106,Rachel Adams,Personal,63,India,East,Lucknow,Karnataka,614522
+C-00107,Chris Evans,Small Business,30,India,West,Mumbai,Maharashtra,948225
+A-00108,Emily Davis,Personal,48,India,South,Ahmedabad,Karnataka,666158
+B-00109,Chris Evans,Corporate,36,India,West,Lucknow,Karnataka,597388
+C-00110,John Smith,Personal,37,India,East,Hyderabad,Tamil Nadu,481334
+A-00111,David Garcia,Small Business,27,India,North,Delhi,Maharashtra,748241
+B-00112,Michael Johnson,Corporate,49,India,West,Jaipur,Tamil Nadu,853687
+C-00113,Ava Martinez,Corporate,61,India,South,Jaipur,Karnataka,885719
+A-00114,Ava Martinez,Corporate,53,India,North,Lucknow,Maharashtra,308743
+B-00115,Isabella Lee,Personal,53,India,East,Jaipur,Karnataka,307400
+C-00116,David Garcia,Corporate,47,India,North,Lucknow,Tamil Nadu,904660
+A-00117,James Anderson,Small Business,64,India,East,Lucknow,Tamil Nadu,737214
+B-00118,Michael Johnson,Small Business,20,India,South,Kolkata,Karnataka,987947
+C-00119,Daniel Wilson,Personal,58,India,North,Kolkata,Maharashtra,770239
+A-00120,Chris Evans,Corporate,59,India,South,Ahmedabad,Tamil Nadu,369788
+B-00121,Sophia Brown,Corporate,57,India,South,Chennai,Maharashtra,961539
+C-00122,Michael Johnson,Personal,20,India,West,Pune,Tamil Nadu,827971
+A-00123,Olivia Thomas,Corporate,24,India,East,Kolkata,Tamil Nadu,408310
+B-00124,John Smith,Corporate,61,India,South,Pune,Maharashtra,165655
+C-00125,Michael Johnson,Small Business,31,India,East,Hyderabad,Karnataka,666514
+A-00126,Ava Martinez,Small Business,59,India,North,Kolkata,Maharashtra,978466
+B-00127,James Anderson,Corporate,31,India,East,Kolkata,Tamil Nadu,572642
+C-00128,John Smith,Corporate,23,India,North,Bengaluru,Karnataka,660109
+A-00129,Emily Davis,Small Business,21,India,West,Chennai,Tamil Nadu,194228
+B-00130,Rachel Adams,Personal,31,India,East,Ahmedabad,Maharashtra,814564
+C-00131,Isabella Lee,Small Business,46,India,South,Hyderabad,Karnataka,130065
+A-00132,Olivia Thomas,Corporate,40,India,South,Chennai,Tamil Nadu,766539
+B-00133,James Anderson,Small Business,26,India,East,Pune,Maharashtra,221995
+C-00134,John Smith,Small Business,56,India,East,Lucknow,Maharashtra,692570
+A-00135,John Smith,Personal,51,India,East,Pune,Maharashtra,462539
+B-00136,Michael Johnson,Corporate,21,India,South,Pune,Karnataka,247563
+C-00137,David Garcia,Corporate,45,India,East,Jaipur,Maharashtra,755011
+A-00138,Daniel Wilson,Personal,34,India,North,Delhi,Maharashtra,197747
+B-00139,Ava Martinez,Corporate,34,India,South,Kolkata,Tamil Nadu,885478
+C-00140,Isabella Lee,Personal,25,India,North,Chennai,Karnataka,498022
+A-00141,Michael Johnson,Personal,38,India,East,Pune,Maharashtra,580527
+B-00142,Chris Evans,Personal,44,India,East,Mumbai,Karnataka,975263
+C-00143,Michael Johnson,Personal,35,India,North,Delhi,Tamil Nadu,508867
+A-00144,John Smith,Small Business,60,India,West,Ahmedabad,Maharashtra,923451
+B-00145,John Smith,Small Business,40,India,North,Kolkata,Karnataka,256646
+C-00146,Isabella Lee,Corporate,24,India,East,Chennai,Tamil Nadu,573084
+A-00147,James Anderson,Personal,44,India,East,Jaipur,Maharashtra,855737
+B-00148,John Smith,Personal,58,India,South,Jaipur,Maharashtra,605677
+C-00149,Ava Martinez,Small Business,32,India,North,Mumbai,Karnataka,806899
+A-00150,James Anderson,Personal,30,India,West,Ahmedabad,Tamil Nadu,729525
+B-00151,James Anderson,Personal,21,India,West,Mumbai,Maharashtra,804743
+C-00152,Olivia Thomas,Personal,38,India,South,Bengaluru,Karnataka,140812
+A-00153,Isabella Lee,Small Business,58,India,North,Delhi,Maharashtra,457456
+B-00154,Sophia Brown,Small Business,18,India,West,Pune,Maharashtra,869559
+C-00155,David Garcia,Small Business,45,India,North,Hyderabad,Tamil Nadu,280463
+A-00156,John Smith,Personal,23,India,West,Ahmedabad,Maharashtra,676713
+B-00157,Emily Davis,Personal,59,India,West,Bengaluru,Karnataka,983988
+C-00158,Rachel Adams,Small Business,54,India,North,Chennai,Tamil Nadu,478267
+A-00159,Emily Davis,Personal,36,India,North,Hyderabad,Tamil Nadu,185343
+B-00160,Rachel Adams,Corporate,20,India,South,Lucknow,Karnataka,303575
+C-00161,Ava Martinez,Small Business,29,India,East,Mumbai,Maharashtra,638667
+A-00162,James Anderson,Personal,48,India,East,Jaipur,Tamil Nadu,339810
+B-00163,Daniel Wilson,Small Business,24,India,West,Hyderabad,Karnataka,190086
+C-00164,Emily Davis,Personal,52,India,West,Hyderabad,Karnataka,430156
+A-00165,Rachel Adams,Small Business,45,India,North,Chennai,Karnataka,112670
+B-00166,David Garcia,Corporate,64,India,East,Chennai,Karnataka,974049
+C-00167,Michael Johnson,Corporate,47,India,East,Kolkata,Maharashtra,156290
+A-00168,Chris Evans,Corporate,50,India,North,Chennai,Maharashtra,461636
+B-00169,Isabella Lee,Corporate,32,India,East,Ahmedabad,Tamil Nadu,520114
+C-00170,Emily Davis,Corporate,64,India,North,Chennai,Tamil Nadu,273831
+A-00171,Ava Martinez,Personal,34,India,West,Mumbai,Tamil Nadu,873191
+B-00172,Ava Martinez,Small Business,36,India,West,Hyderabad,Maharashtra,573037
+C-00173,Michael Johnson,Corporate,18,India,South,Chennai,Maharashtra,781059
+A-00174,Rachel Adams,Corporate,27,India,West,Bengaluru,Karnataka,545098
+B-00175,James Anderson,Small Business,21,India,South,Mumbai,Maharashtra,953987
+C-00176,Michael Johnson,Personal,21,India,West,Pune,Maharashtra,776583
+A-00177,Olivia Thomas,Small Business,48,India,North,Ahmedabad,Karnataka,205682
+B-00178,Sophia Brown,Personal,24,India,North,Jaipur,Tamil Nadu,143646
+C-00179,Emily Davis,Small Business,34,India,West,Mumbai,Tamil Nadu,841501
+A-00180,Ava Martinez,Small Business,22,India,North,Kolkata,Tamil Nadu,643021
+B-00181,James Anderson,Personal,55,India,North,Kolkata,Maharashtra,414077
+C-00182,Chris Evans,Small Business,36,India,West,Mumbai,Maharashtra,965738
+A-00183,David Garcia,Corporate,38,India,West,Pune,Maharashtra,145701
+B-00184,Chris Evans,Small Business,46,India,East,Chennai,Tamil Nadu,406730
+C-00185,Olivia Thomas,Personal,40,India,South,Jaipur,Karnataka,713225
+A-00186,Isabella Lee,Small Business,42,India,South,Jaipur,Maharashtra,456864
+B-00187,Chris Evans,Personal,46,India,South,Pune,Karnataka,491105
+C-00188,Daniel Wilson,Personal,56,India,East,Chennai,Karnataka,155926
+A-00189,Olivia Thomas,Personal,25,India,South,Jaipur,Tamil Nadu,172575
+B-00190,Olivia Thomas,Small Business,28,India,East,Ahmedabad,Karnataka,119959
+C-00191,Isabella Lee,Corporate,52,India,East,Delhi,Maharashtra,721952
+A-00192,David Garcia,Corporate,23,India,East,Lucknow,Tamil Nadu,807550
+B-00193,Isabella Lee,Personal,41,India,South,Ahmedabad,Karnataka,591795
+C-00194,Michael Johnson,Small Business,54,India,North,Chennai,Tamil Nadu,381815
+A-00195,Sophia Brown,Personal,62,India,West,Lucknow,Maharashtra,839363
+B-00196,Emily Davis,Corporate,24,India,North,Mumbai,Tamil Nadu,444754
+C-00197,Isabella Lee,Corporate,29,India,West,Delhi,Karnataka,270121
+A-00198,Chris Evans,Personal,38,India,North,Chennai,Maharashtra,405086
+B-00199,Olivia Thomas,Personal,25,India,South,Kolkata,Tamil Nadu,886497
+C-00200,David Garcia,Small Business,56,India,East,Lucknow,Karnataka,725622
+A-00201,Michael Johnson,Corporate,18,India,West,Lucknow,Tamil Nadu,849370
+B-00202,Ava Martinez,Corporate,45,India,South,Kolkata,Maharashtra,676439
+C-00203,James Anderson,Personal,18,India,East,Chennai,Tamil Nadu,145684
+A-00204,David Garcia,Corporate,64,India,South,Hyderabad,Karnataka,600026
+B-00205,Olivia Thomas,Personal,62,India,West,Mumbai,Maharashtra,415832
+C-00206,Emily Davis,Corporate,33,India,West,Hyderabad,Maharashtra,125609
+A-00207,Sophia Brown,Personal,42,India,North,Bengaluru,Tamil Nadu,556615
+B-00208,Sophia Brown,Corporate,33,India,North,Delhi,Karnataka,257252
+C-00209,Isabella Lee,Corporate,29,India,North,Hyderabad,Karnataka,526447
+A-00210,Ava Martinez,Personal,47,India,North,Kolkata,Tamil Nadu,537330
+B-00211,Ava Martinez,Personal,42,India,North,Kolkata,Tamil Nadu,967597
+C-00212,Rachel Adams,Personal,54,India,West,Jaipur,Maharashtra,461657
+A-00213,John Smith,Personal,49,India,West,Lucknow,Maharashtra,709300
+B-00214,Chris Evans,Corporate,45,India,South,Ahmedabad,Tamil Nadu,507811
+C-00215,David Garcia,Corporate,18,India,North,Bengaluru,Karnataka,353599
+A-00216,Daniel Wilson,Small Business,55,India,East,Hyderabad,Maharashtra,244312
+B-00217,Emily Davis,Personal,46,India,East,Hyderabad,Karnataka,994609
+C-00218,John Smith,Personal,20,India,East,Bengaluru,Maharashtra,811416
+A-00219,Emily Davis,Small Business,25,India,East,Hyderabad,Karnataka,971518
+B-00220,John Smith,Small Business,62,India,West,Hyderabad,Karnataka,868931
+C-00221,John Smith,Corporate,19,India,West,Delhi,Karnataka,205493
+A-00222,Ava Martinez,Personal,59,India,West,Lucknow,Maharashtra,193061
+B-00223,Chris Evans,Personal,18,India,East,Pune,Maharashtra,402551
+C-00224,Chris Evans,Corporate,21,India,East,Hyderabad,Tamil Nadu,236761
+A-00225,Isabella Lee,Corporate,32,India,West,Delhi,Maharashtra,915304
+B-00226,David Garcia,Corporate,39,India,South,Jaipur,Maharashtra,573999
+C-00227,James Anderson,Small Business,36,India,North,Pune,Tamil Nadu,127784
+A-00228,Daniel Wilson,Corporate,25,India,South,Mumbai,Maharashtra,595443
+B-00229,John Smith,Small Business,24,India,South,Pune,Tamil Nadu,410471
+C-00230,Isabella Lee,Corporate,28,India,East,Pune,Tamil Nadu,224164
+A-00231,Isabella Lee,Small Business,30,India,East,Bengaluru,Tamil Nadu,712070
+B-00232,Chris Evans,Small Business,20,India,West,Pune,Karnataka,773832
+C-00233,James Anderson,Corporate,46,India,North,Jaipur,Tamil Nadu,723911
+A-00234,Sophia Brown,Corporate,22,India,East,Delhi,Tamil Nadu,766257
+B-00235,Rachel Adams,Small Business,31,India,East,Ahmedabad,Tamil Nadu,761444
+C-00236,Sophia Brown,Small Business,48,India,West,Mumbai,Karnataka,905079
+A-00237,Sophia Brown,Personal,23,India,West,Pune,Maharashtra,114272
+B-00238,Ava Martinez,Personal,33,India,South,Chennai,Tamil Nadu,485257
+C-00239,Olivia Thomas,Corporate,38,India,South,Hyderabad,Karnataka,855415
+A-00240,Daniel Wilson,Small Business,51,India,East,Kolkata,Karnataka,794403
+B-00241,Isabella Lee,Personal,57,India,East,Lucknow,Maharashtra,879654
+C-00242,Michael Johnson,Corporate,39,India,South,Ahmedabad,Maharashtra,748803
+A-00243,Sophia Brown,Corporate,41,India,South,Bengaluru,Tamil Nadu,828701
+B-00244,Ava Martinez,Small Business,30,India,East,Lucknow,Maharashtra,329381
+C-00245,Daniel Wilson,Personal,58,India,West,Mumbai,Tamil Nadu,687656
+A-00246,Michael Johnson,Personal,61,India,North,Lucknow,Maharashtra,642934
+B-00247,Michael Johnson,Personal,27,India,West,Hyderabad,Maharashtra,415450
+C-00248,Emily Davis,Personal,24,India,South,Chennai,Maharashtra,121316
+A-00249,Chris Evans,Small Business,57,India,North,Kolkata,Maharashtra,305205
+B-00250,Emily Davis,Corporate,48,India,North,Bengaluru,Maharashtra,547202
+C-00251,Michael Johnson,Personal,28,India,North,Pune,Tamil Nadu,330985
+A-00252,Michael Johnson,Corporate,59,India,South,Hyderabad,Tamil Nadu,587578
+B-00253,Chris Evans,Corporate,48,India,West,Kolkata,Maharashtra,971939
+C-00254,Chris Evans,Personal,21,India,East,Mumbai,Tamil Nadu,478466
+A-00255,David Garcia,Personal,19,India,South,Jaipur,Karnataka,148221
+B-00256,John Smith,Small Business,29,India,South,Kolkata,Maharashtra,810780
+C-00257,Daniel Wilson,Small Business,64,India,West,Jaipur,Maharashtra,509433
+A-00258,Chris Evans,Small Business,32,India,West,Delhi,Maharashtra,585384
+B-00259,David Garcia,Small Business,34,India,West,Ahmedabad,Karnataka,769119
+C-00260,Chris Evans,Corporate,59,India,East,Kolkata,Maharashtra,976539
+A-00261,Isabella Lee,Corporate,33,India,West,Pune,Tamil Nadu,675934
+B-00262,John Smith,Small Business,25,India,South,Delhi,Karnataka,726502
+C-00263,Rachel Adams,Corporate,61,India,West,Ahmedabad,Tamil Nadu,884890
+A-00264,David Garcia,Personal,61,India,West,Lucknow,Karnataka,527376
+B-00265,Daniel Wilson,Small Business,42,India,West,Jaipur,Karnataka,686231
+C-00266,James Anderson,Corporate,48,India,North,Chennai,Karnataka,872960
+A-00267,Michael Johnson,Corporate,57,India,West,Kolkata,Maharashtra,208142
+B-00268,Daniel Wilson,Corporate,37,India,South,Jaipur,Maharashtra,945484
+C-00269,Sophia Brown,Small Business,64,India,East,Delhi,Karnataka,291787
+A-00270,James Anderson,Small Business,53,India,East,Pune,Tamil Nadu,221522
+B-00271,Isabella Lee,Corporate,51,India,East,Delhi,Karnataka,221006
+C-00272,John Smith,Corporate,20,India,South,Ahmedabad,Tamil Nadu,103811
+A-00273,Michael Johnson,Personal,64,India,North,Pune,Karnataka,245177
+B-00274,John Smith,Personal,52,India,North,Lucknow,Tamil Nadu,452597
+C-00275,Sophia Brown,Small Business,27,India,North,Pune,Tamil Nadu,545080
+A-00276,Daniel Wilson,Small Business,34,India,East,Bengaluru,Maharashtra,664851
+B-00277,Ava Martinez,Corporate,21,India,North,Mumbai,Tamil Nadu,700595
+C-00278,Ava Martinez,Corporate,25,India,West,Jaipur,Karnataka,168869
+A-00279,Daniel Wilson,Corporate,44,India,West,Mumbai,Maharashtra,332367
+B-00280,Rachel Adams,Personal,30,India,East,Kolkata,Karnataka,428777
+C-00281,Sophia Brown,Corporate,31,India,North,Bengaluru,Karnataka,391284
+A-00282,Michael Johnson,Corporate,44,India,West,Lucknow,Maharashtra,580246
+B-00283,John Smith,Personal,31,India,East,Kolkata,Tamil Nadu,601406
+C-00284,Isabella Lee,Personal,59,India,West,Pune,Maharashtra,943644
+A-00285,Daniel Wilson,Corporate,18,India,West,Pune,Tamil Nadu,715780
+B-00286,Michael Johnson,Corporate,49,India,South,Lucknow,Karnataka,120946
+C-00287,David Garcia,Corporate,20,India,North,Mumbai,Tamil Nadu,662639
+A-00288,Sophia Brown,Small Business,51,India,South,Jaipur,Karnataka,957732
+B-00289,Isabella Lee,Personal,28,India,South,Lucknow,Tamil Nadu,814690
+C-00290,Isabella Lee,Corporate,49,India,North,Jaipur,Karnataka,767323
+A-00291,David Garcia,Personal,36,India,West,Chennai,Karnataka,223870
+B-00292,Emily Davis,Small Business,23,India,West,Delhi,Tamil Nadu,948888
+C-00293,Chris Evans,Personal,56,India,North,Kolkata,Maharashtra,821514
+A-00294,David Garcia,Corporate,34,India,North,Ahmedabad,Karnataka,280092
+B-00295,John Smith,Small Business,23,India,East,Ahmedabad,Tamil Nadu,844819
+C-00296,Chris Evans,Small Business,50,India,North,Pune,Maharashtra,884668
+A-00297,Chris Evans,Small Business,22,India,West,Ahmedabad,Karnataka,619247
+B-00298,John Smith,Small Business,22,India,South,Delhi,Tamil Nadu,154647
+C-00299,Sophia Brown,Personal,53,India,West,Jaipur,Karnataka,200716
+A-00300,Daniel Wilson,Corporate,55,India,North,Pune,Maharashtra,853676
+B-00301,Olivia Thomas,Corporate,33,India,West,Lucknow,Karnataka,460736
+C-00302,David Garcia,Small Business,63,India,East,Kolkata,Maharashtra,768734
+A-00303,Olivia Thomas,Corporate,50,India,North,Chennai,Karnataka,515335
+B-00304,Rachel Adams,Corporate,36,India,East,Lucknow,Tamil Nadu,471705
+C-00305,John Smith,Corporate,42,India,East,Kolkata,Karnataka,798592
+A-00306,Ava Martinez,Corporate,56,India,North,Pune,Maharashtra,533267
+B-00307,John Smith,Small Business,63,India,East,Delhi,Maharashtra,782812
+C-00308,Rachel Adams,Personal,44,India,West,Pune,Tamil Nadu,941338
+A-00309,Isabella Lee,Corporate,54,India,East,Jaipur,Maharashtra,879299
+B-00310,John Smith,Corporate,58,India,North,Lucknow,Karnataka,939947
+C-00311,Isabella Lee,Personal,25,India,South,Kolkata,Karnataka,379712
+A-00312,Ava Martinez,Small Business,56,India,West,Hyderabad,Karnataka,384635
+B-00313,James Anderson,Small Business,18,India,South,Ahmedabad,Tamil Nadu,727642
+C-00314,Chris Evans,Small Business,28,India,North,Bengaluru,Karnataka,426638
+A-00315,Michael Johnson,Corporate,23,India,North,Ahmedabad,Maharashtra,800628
+B-00316,John Smith,Small Business,59,India,South,Mumbai,Tamil Nadu,756131
+C-00317,John Smith,Small Business,55,India,South,Jaipur,Karnataka,209812
+A-00318,Sophia Brown,Corporate,33,India,East,Lucknow,Karnataka,510300
+B-00319,Daniel Wilson,Corporate,27,India,East,Pune,Karnataka,213723
+C-00320,Ava Martinez,Small Business,27,India,West,Pune,Tamil Nadu,329363
+A-00321,Michael Johnson,Corporate,54,India,North,Ahmedabad,Tamil Nadu,728930
+B-00322,David Garcia,Corporate,47,India,South,Lucknow,Karnataka,397181
+C-00323,Emily Davis,Personal,24,India,North,Hyderabad,Tamil Nadu,122026
+A-00324,James Anderson,Corporate,49,India,West,Kolkata,Maharashtra,207141
+B-00325,John Smith,Small Business,42,India,South,Chennai,Tamil Nadu,918252
+C-00326,John Smith,Personal,55,India,West,Bengaluru,Maharashtra,979073
+A-00327,Emily Davis,Small Business,27,India,West,Jaipur,Maharashtra,833812
+B-00328,James Anderson,Corporate,46,India,South,Mumbai,Karnataka,451716
+C-00329,Sophia Brown,Corporate,45,India,East,Kolkata,Maharashtra,853027
+A-00330,Olivia Thomas,Corporate,22,India,East,Mumbai,Karnataka,759370
+B-00331,Chris Evans,Personal,35,India,South,Bengaluru,Tamil Nadu,699184
+C-00332,David Garcia,Corporate,26,India,West,Mumbai,Maharashtra,132858
+A-00333,Chris Evans,Personal,50,India,South,Kolkata,Karnataka,235499
+B-00334,Olivia Thomas,Personal,22,India,East,Bengaluru,Tamil Nadu,635381
+C-00335,Chris Evans,Small Business,28,India,East,Ahmedabad,Karnataka,773787
+A-00336,Sophia Brown,Personal,58,India,North,Bengaluru,Karnataka,476277
+B-00337,Emily Davis,Corporate,35,India,South,Hyderabad,Tamil Nadu,184904
+C-00338,Rachel Adams,Small Business,60,India,South,Chennai,Tamil Nadu,976752
+A-00339,James Anderson,Personal,18,India,North,Mumbai,Maharashtra,404088
+B-00340,David Garcia,Corporate,54,India,West,Chennai,Maharashtra,262763
+C-00341,David Garcia,Personal,42,India,East,Kolkata,Karnataka,390348
+A-00342,Daniel Wilson,Corporate,63,India,West,Delhi,Tamil Nadu,260748
+B-00343,John Smith,Corporate,51,India,West,Chennai,Maharashtra,473968
+C-00344,Daniel Wilson,Small Business,38,India,West,Pune,Tamil Nadu,452390
+A-00345,Emily Davis,Small Business,29,India,East,Lucknow,Tamil Nadu,285878
+B-00346,Sophia Brown,Corporate,49,India,West,Kolkata,Tamil Nadu,963251
+C-00347,Sophia Brown,Personal,34,India,South,Ahmedabad,Karnataka,699310
+A-00348,John Smith,Small Business,63,India,North,Lucknow,Karnataka,198326
+B-00349,Michael Johnson,Small Business,27,India,West,Lucknow,Karnataka,437442
+C-00350,Rachel Adams,Small Business,35,India,West,Jaipur,Tamil Nadu,604473
+A-00351,Daniel Wilson,Small Business,19,India,South,Kolkata,Karnataka,480769
+B-00352,Emily Davis,Personal,38,India,South,Ahmedabad,Karnataka,424568
+C-00353,Michael Johnson,Corporate,41,India,North,Lucknow,Tamil Nadu,993140
+A-00354,John Smith,Personal,57,India,North,Kolkata,Karnataka,554849
+B-00355,Daniel Wilson,Small Business,50,India,East,Bengaluru,Maharashtra,777166
+C-00356,Rachel Adams,Small Business,61,India,East,Mumbai,Karnataka,357657
+A-00357,Chris Evans,Small Business,55,India,West,Lucknow,Maharashtra,999246
+B-00358,James Anderson,Small Business,24,India,East,Bengaluru,Tamil Nadu,956611
+C-00359,Sophia Brown,Personal,64,India,West,Hyderabad,Tamil Nadu,566069
+A-00360,Emily Davis,Small Business,58,India,East,Delhi,Maharashtra,708864
+B-00361,Isabella Lee,Corporate,30,India,East,Ahmedabad,Maharashtra,431436
+C-00362,Olivia Thomas,Personal,56,India,West,Delhi,Tamil Nadu,162324
+A-00363,Michael Johnson,Personal,60,India,East,Pune,Karnataka,641811
+B-00364,Michael Johnson,Small Business,63,India,North,Kolkata,Karnataka,166701
+C-00365,Michael Johnson,Personal,63,India,East,Mumbai,Tamil Nadu,932629
+A-00366,John Smith,Personal,36,India,South,Delhi,Maharashtra,725341
+B-00367,Sophia Brown,Personal,44,India,West,Kolkata,Karnataka,629784
+C-00368,Emily Davis,Small Business,46,India,East,Bengaluru,Maharashtra,355797
+A-00369,Chris Evans,Corporate,62,India,West,Mumbai,Karnataka,990360
+B-00370,James Anderson,Small Business,36,India,West,Pune,Tamil Nadu,502729
+C-00371,Rachel Adams,Personal,49,India,West,Delhi,Tamil Nadu,430866
+A-00372,Michael Johnson,Corporate,41,India,South,Pune,Tamil Nadu,869308
+B-00373,John Smith,Small Business,30,India,North,Lucknow,Maharashtra,676437
+C-00374,Olivia Thomas,Corporate,60,India,North,Mumbai,Karnataka,231047
+A-00375,Isabella Lee,Small Business,54,India,East,Pune,Maharashtra,256703
+B-00376,Isabella Lee,Personal,36,India,South,Bengaluru,Tamil Nadu,861241
+C-00377,Sophia Brown,Small Business,32,India,South,Hyderabad,Maharashtra,540603
+A-00378,David Garcia,Small Business,32,India,North,Hyderabad,Karnataka,407847
+B-00379,Olivia Thomas,Small Business,39,India,West,Ahmedabad,Karnataka,909828
+C-00380,John Smith,Corporate,26,India,North,Bengaluru,Tamil Nadu,585580
+A-00381,Ava Martinez,Personal,22,India,North,Pune,Maharashtra,881738
+B-00382,David Garcia,Personal,54,India,South,Mumbai,Karnataka,628496
+C-00383,Sophia Brown,Small Business,34,India,East,Delhi,Tamil Nadu,988282
+A-00384,Sophia Brown,Small Business,64,India,South,Kolkata,Maharashtra,607136
+B-00385,Chris Evans,Small Business,18,India,West,Chennai,Maharashtra,326017
+C-00386,Michael Johnson,Personal,64,India,South,Lucknow,Tamil Nadu,282434
+A-00387,Michael Johnson,Small Business,44,India,East,Kolkata,Tamil Nadu,746487
+B-00388,Chris Evans,Personal,60,India,South,Delhi,Maharashtra,531942
+C-00389,David Garcia,Small Business,49,India,South,Mumbai,Maharashtra,219026
+A-00390,Emily Davis,Corporate,53,India,West,Hyderabad,Tamil Nadu,520608
+B-00391,John Smith,Personal,59,India,West,Ahmedabad,Karnataka,353276
+C-00392,Isabella Lee,Small Business,61,India,South,Delhi,Maharashtra,410838
+A-00393,Chris Evans,Personal,24,India,South,Delhi,Maharashtra,876286
+B-00394,Olivia Thomas,Personal,37,India,South,Ahmedabad,Karnataka,273142
+C-00395,Sophia Brown,Corporate,44,India,East,Lucknow,Karnataka,628405
+A-00396,Michael Johnson,Small Business,31,India,North,Chennai,Karnataka,818818
+B-00397,Rachel Adams,Personal,44,India,North,Delhi,Maharashtra,167580
+C-00398,John Smith,Corporate,25,India,North,Chennai,Tamil Nadu,295784
+A-00399,Chris Evans,Personal,39,India,South,Hyderabad,Maharashtra,462658
+B-00400,Chris Evans,Small Business,57,India,East,Jaipur,Maharashtra,386268
+C-00401,Sophia Brown,Small Business,57,India,South,Pune,Tamil Nadu,725613
+A-00402,Sophia Brown,Small Business,23,India,East,Chennai,Karnataka,774573
+B-00403,David Garcia,Corporate,53,India,East,Jaipur,Karnataka,888340
+C-00404,Michael Johnson,Small Business,62,India,East,Chennai,Karnataka,177185
+A-00405,Isabella Lee,Corporate,50,India,West,Bengaluru,Karnataka,435520
+B-00406,Emily Davis,Personal,27,India,East,Pune,Maharashtra,609151
+C-00407,Isabella Lee,Personal,37,India,East,Pune,Karnataka,274324
+A-00408,John Smith,Small Business,46,India,North,Bengaluru,Maharashtra,950732
+B-00409,Ava Martinez,Personal,30,India,West,Lucknow,Tamil Nadu,910014
+C-00410,Emily Davis,Personal,32,India,North,Hyderabad,Karnataka,404585
+A-00411,Daniel Wilson,Corporate,44,India,South,Chennai,Karnataka,146048
+B-00412,Chris Evans,Personal,19,India,South,Bengaluru,Tamil Nadu,214789
+C-00413,Isabella Lee,Corporate,25,India,West,Chennai,Karnataka,850864
+A-00414,Sophia Brown,Personal,48,India,West,Mumbai,Karnataka,309655
+B-00415,John Smith,Small Business,51,India,South,Kolkata,Maharashtra,399848
+C-00416,Sophia Brown,Small Business,36,India,South,Kolkata,Karnataka,280580
+A-00417,David Garcia,Corporate,48,India,West,Hyderabad,Tamil Nadu,247745
+B-00418,John Smith,Personal,42,India,North,Bengaluru,Maharashtra,936394
+C-00419,Michael Johnson,Personal,33,India,East,Hyderabad,Karnataka,134324
+A-00420,John Smith,Small Business,56,India,West,Pune,Tamil Nadu,727691
+B-00421,Michael Johnson,Small Business,53,India,West,Bengaluru,Maharashtra,528021
+C-00422,Emily Davis,Small Business,33,India,South,Jaipur,Maharashtra,933753
+A-00423,Ava Martinez,Personal,48,India,West,Pune,Maharashtra,852273
+B-00424,James Anderson,Corporate,51,India,West,Mumbai,Maharashtra,592986
+C-00425,James Anderson,Corporate,50,India,West,Hyderabad,Maharashtra,147469
+A-00426,Rachel Adams,Personal,55,India,North,Lucknow,Maharashtra,909930
+B-00427,James Anderson,Corporate,38,India,South,Lucknow,Maharashtra,194723
+C-00428,Emily Davis,Corporate,23,India,East,Ahmedabad,Tamil Nadu,798256
+A-00429,Emily Davis,Small Business,21,India,South,Mumbai,Karnataka,289960
+B-00430,Olivia Thomas,Personal,30,India,North,Jaipur,Karnataka,960815
+C-00431,David Garcia,Small Business,20,India,East,Pune,Tamil Nadu,973299
+A-00432,Ava Martinez,Personal,26,India,South,Delhi,Tamil Nadu,918934
+B-00433,Ava Martinez,Personal,22,India,South,Lucknow,Maharashtra,512313
+C-00434,John Smith,Small Business,35,India,North,Jaipur,Tamil Nadu,335451
+A-00435,Ava Martinez,Corporate,29,India,South,Hyderabad,Karnataka,536939
+B-00436,Olivia Thomas,Corporate,25,India,East,Delhi,Tamil Nadu,295812
+C-00437,Isabella Lee,Corporate,22,India,East,Jaipur,Maharashtra,389800
+A-00438,David Garcia,Personal,46,India,South,Ahmedabad,Maharashtra,591367
+B-00439,Sophia Brown,Small Business,45,India,North,Kolkata,Maharashtra,928034
+C-00440,Rachel Adams,Small Business,39,India,North,Hyderabad,Tamil Nadu,459294
+A-00441,Sophia Brown,Small Business,23,India,East,Pune,Tamil Nadu,445083
+B-00442,Michael Johnson,Corporate,53,India,North,Kolkata,Tamil Nadu,567858
+C-00443,David Garcia,Corporate,35,India,North,Lucknow,Maharashtra,493443
+A-00444,Daniel Wilson,Small Business,28,India,North,Chennai,Karnataka,562355
+B-00445,John Smith,Personal,45,India,West,Mumbai,Maharashtra,634858
+C-00446,Olivia Thomas,Corporate,48,India,South,Jaipur,Tamil Nadu,112298
+A-00447,Daniel Wilson,Corporate,64,India,East,Mumbai,Tamil Nadu,529207
+B-00448,Rachel Adams,Small Business,56,India,West,Kolkata,Tamil Nadu,112244
+C-00449,Daniel Wilson,Small Business,51,India,South,Pune,Maharashtra,972593
+A-00450,Isabella Lee,Corporate,51,India,East,Hyderabad,Karnataka,147473
+B-00451,James Anderson,Personal,37,India,North,Ahmedabad,Karnataka,132487
+C-00452,Chris Evans,Small Business,61,India,West,Hyderabad,Karnataka,335320
+A-00453,John Smith,Corporate,24,India,North,Kolkata,Tamil Nadu,465160
+B-00454,Chris Evans,Small Business,25,India,North,Pune,Karnataka,972057
+C-00455,Michael Johnson,Corporate,60,India,West,Pune,Tamil Nadu,541380
+A-00456,Chris Evans,Corporate,32,India,South,Ahmedabad,Tamil Nadu,605586
+B-00457,Rachel Adams,Small Business,31,India,East,Pune,Karnataka,543419
+C-00458,John Smith,Corporate,35,India,East,Pune,Maharashtra,775568
+A-00459,Isabella Lee,Corporate,30,India,East,Ahmedabad,Maharashtra,614418
+B-00460,Emily Davis,Corporate,22,India,South,Chennai,Karnataka,698261
+C-00461,John Smith,Corporate,63,India,North,Kolkata,Maharashtra,190468
+A-00462,Ava Martinez,Small Business,25,India,West,Pune,Tamil Nadu,164606
+B-00463,Chris Evans,Small Business,22,India,East,Chennai,Karnataka,247585
+C-00464,Emily Davis,Corporate,56,India,South,Lucknow,Karnataka,603951
+A-00465,Isabella Lee,Small Business,63,India,South,Ahmedabad,Karnataka,190730
+B-00466,Emily Davis,Corporate,41,India,North,Pune,Maharashtra,887132
+C-00467,Michael Johnson,Personal,57,India,South,Chennai,Maharashtra,749589
+A-00468,Olivia Thomas,Small Business,32,India,South,Pune,Tamil Nadu,945427
+B-00469,David Garcia,Corporate,28,India,East,Kolkata,Karnataka,379916
+C-00470,Sophia Brown,Personal,21,India,West,Jaipur,Karnataka,689857
+A-00471,Michael Johnson,Small Business,57,India,North,Delhi,Karnataka,475051
+B-00472,Isabella Lee,Corporate,52,India,North,Delhi,Karnataka,709916
+C-00473,James Anderson,Corporate,33,India,East,Hyderabad,Tamil Nadu,300698
+A-00474,Chris Evans,Small Business,61,India,West,Pune,Tamil Nadu,289746
+B-00475,Ava Martinez,Personal,18,India,East,Bengaluru,Tamil Nadu,925549
+C-00476,Isabella Lee,Personal,23,India,East,Kolkata,Karnataka,689373
+A-00477,Isabella Lee,Corporate,20,India,South,Kolkata,Karnataka,881311
+B-00478,Rachel Adams,Personal,20,India,East,Hyderabad,Maharashtra,863502
+C-00479,Rachel Adams,Personal,37,India,North,Lucknow,Maharashtra,174698
+A-00480,David Garcia,Corporate,47,India,East,Jaipur,Maharashtra,322493
+B-00481,Rachel Adams,Personal,37,India,East,Chennai,Karnataka,400610
+C-00482,Daniel Wilson,Personal,57,India,West,Pune,Maharashtra,450981
+A-00483,Olivia Thomas,Small Business,23,India,North,Hyderabad,Karnataka,773733
+B-00484,Daniel Wilson,Small Business,57,India,East,Ahmedabad,Maharashtra,157319
+C-00485,Isabella Lee,Personal,19,India,North,Mumbai,Maharashtra,987580
+A-00486,Chris Evans,Small Business,38,India,East,Delhi,Maharashtra,735292
+B-00487,Olivia Thomas,Small Business,38,India,East,Delhi,Tamil Nadu,852357
+C-00488,John Smith,Personal,22,India,West,Pune,Karnataka,221011
+A-00489,Michael Johnson,Small Business,56,India,South,Mumbai,Maharashtra,388957
+B-00490,Isabella Lee,Personal,28,India,West,Jaipur,Tamil Nadu,364878
+C-00491,John Smith,Personal,30,India,North,Ahmedabad,Karnataka,938774
+A-00492,Emily Davis,Small Business,27,India,East,Mumbai,Tamil Nadu,432891
+B-00493,Sophia Brown,Personal,48,India,North,Hyderabad,Maharashtra,754101
+C-00494,Daniel Wilson,Personal,38,India,West,Kolkata,Maharashtra,915503
+A-00495,David Garcia,Personal,20,India,South,Ahmedabad,Maharashtra,748262
+B-00496,Emily Davis,Small Business,58,India,West,Mumbai,Karnataka,901824
+C-00497,David Garcia,Corporate,46,India,West,Hyderabad,Tamil Nadu,247369
+A-00498,Sophia Brown,Personal,47,India,West,Lucknow,Tamil Nadu,970476
+B-00499,Isabella Lee,Corporate,64,India,West,Lucknow,Karnataka,746514
+C-00500,Isabella Lee,Small Business,24,India,North,Jaipur,Tamil Nadu,876524
